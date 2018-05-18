@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ga_trackingId" translatable="false">UA-119402655-1</string>
+
+    <string name="ga_trackingId" translatable="false">UA-119402655-1</string>
+    <string name="ga_appName">GoogleAnalyticsApp</string>
+    <string name="ga_appVersion">1.0</string>
+    <bool name="ga_dryRun">false</bool>
+    <integer name="ga_dispatchPeriod">1800</integer>
+
+</resources>
